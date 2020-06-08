@@ -1,8 +1,10 @@
 ## Welcome to Hans' GitHub Pages
 
-These pages are specifically made for Operating Systems Class under Mr. Rahmat M. Samik-Ibrahim. I'm currently facing the dreaded final test.
+These pages are specifically made for Operating Systems Class under Mr. Rahmat M. Samik-Ibrahim. I'm currently facing the dreaded final test, but Mr. RMS is nice enough to give us links of study and practice materials.
 
-These pages are made using Markdown language and Jekyll Theme.
+### follow this [link](URLs/) to see the links I mentioned.
+
+Also, these pages are made using Markdown language and Jekyll Theme.
 
 ### Markdown
 
