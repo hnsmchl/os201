@@ -1,4 +1,4 @@
-## Welcome to Hans' GitHub Pages test
+## Welcome to Hans' GitHub Pages
 
 These pages are specifically made for Operating Systems Class under Mr. Rahmat M. Samik-Ibrahim. I'm currently facing the dreaded final test.
 
